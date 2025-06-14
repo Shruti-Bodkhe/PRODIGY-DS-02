@@ -73,7 +73,7 @@ Titanic-EDA/
 
 ## 💻 How to Run This Project
 
-### Option 1: Using Git
+### Using Git
 ```bash
 git clone https://github.com/Shruti-Bodkhe/Titanic-EDA.git
 cd Titanic-EDA
